@@ -1,0 +1,1 @@
+# serilog-formatting-bufferwriter-adapter
